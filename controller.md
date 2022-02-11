@@ -47,7 +47,7 @@ link:(https://os.mbed.com/platforms/MAX32630FTHR/?utm_source=platformio.org&utm_
 ![](https://heltec.org/wp-content/uploads/2020/05/IMG_0059_800.jpg)
 ## CubeCell Dev-Board Plus
 
-ชื่อ:MCubeCell Dev-Board Plus
+ชื่อ:CubeCell Dev-Board Plus
 
 ราคา:600
 

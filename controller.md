@@ -41,7 +41,7 @@ link:(https://os.mbed.com/platforms/MAX32630FTHR/?utm_source=platformio.org&utm_
 
 หน่วยความจำ:512KB
 
-พอร์ท:สามารถใช้ digital input หรือ digital output โดยใชเฟังก์ชั่น pinMode(), digitalWrite(), เเละ digitalRead()
+พอร์ท:USB 2.0 Full-Speed Device Four-Input 10-Bit ADC
 
 
 ![](https://heltec.org/wp-content/uploads/2020/05/IMG_0059_800.jpg)

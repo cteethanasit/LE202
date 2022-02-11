@@ -64,7 +64,7 @@ link:(https://heltec.org/project/htcc-ab02/)
 
 ชื่อ:A RISC-V Raspberry Pi 4
 
-ราคา:600
+ราคา8,990
 
 link:(https://www.techradar.com/news/a-risc-v-raspberry-pi-rival-is-about-to-hit-the-market)
 

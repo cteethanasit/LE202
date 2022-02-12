@@ -10,3 +10,4 @@
 # 3.กดดาวน์โหลด  platformio
 
 # 4.เสร็จสิ้น
+ วิดีโอ (https://youtu.be/xgMErOeH3fg)

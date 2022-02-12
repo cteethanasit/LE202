@@ -75,7 +75,6 @@ link:(https://www.techradar.com/news/a-risc-v-raspberry-pi-rival-is-about-to-hit
 พอร์ท: micro SD card slot for storage, HDMI 1.4, g 3.5mm audio out, 4 x USB 3.0 Type-A ports, and a Type-C for power.
 
 วิดีโอ
-(https://youtu.be/O3TitisutT8)
 
 
 

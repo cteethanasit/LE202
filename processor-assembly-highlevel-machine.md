@@ -25,6 +25,7 @@
 
 ### 1.RISC-V 
 Processor:RISC-V rv64gc 
+
 High-Level Language:C
 
 ![image](https://user-images.githubusercontent.com/98943509/161440512-4a604d06-b9b6-449d-9dfd-0d10e3cd40fd.png)
@@ -40,6 +41,7 @@ Machine Language:
 
 ### 2.X86-64 
 Processor:X86-64 
+
 High-Level Language:C++
 
 ![image](https://user-images.githubusercontent.com/98943509/161440690-fa9d8122-d2de-4d82-84ba-136534314a66.png)
